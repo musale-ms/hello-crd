@@ -3,4 +3,4 @@ kind: Hello
 metadata:
   name: greetings
 spec:
-  message: "Hello, World!"
+  message: "Hello there, updated the resource"
