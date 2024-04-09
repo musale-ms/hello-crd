@@ -1,0 +1,6 @@
+apiVersion: localusr.io/v1
+kind: Hello
+metadata:
+  name: greetings
+spec:
+  message: "Hello, World!"
